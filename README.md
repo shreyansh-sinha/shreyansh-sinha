@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineering graduate from National Institute of technology Calicut, who loves solving challenging technical problems. 
+I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineering graduate from National Institute of Technology Calicut, who loves solving challenging technical problems. 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![linkedin]
