@@ -2,7 +2,7 @@
 
 I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineering graduate from National Institute of Technology Calicut, who loves solving challenging technical problems. 
 
-![https://github.com/shreyansh-sinha](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -13,6 +13,8 @@ I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineeri
 - 💬 Ask me about C, C++, Javascript, DSA, chess.
 - 
 - 📫 How to reach me: ...
+- http://github.com - automatic!
+[GitHub](http://github.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
