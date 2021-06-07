@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**shreyansh-sinha/shreyansh-sinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineering graduate from National Institute of technology Calicut, who loves solving challenging technical problems. 
 
 Here are some ideas to get you started:
 
@@ -11,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Backend Engineering in Javascript.
 - 💬 Ask me about C, C++, Javascript, DSA, chess.
 - 📫 How to reach me: ...
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
