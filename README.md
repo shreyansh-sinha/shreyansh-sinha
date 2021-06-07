@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shreyanshsinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shreyanshsinha" height="30" width="40" /></a>
+  <br/>
 <a href="https://linkedin.com/in/shreyansh-sinha-2b47a2188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-sinha-2b47a2188" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyansh_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyansh_2.0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shreyansh2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyansh2" height="30" width="40" /></a>
