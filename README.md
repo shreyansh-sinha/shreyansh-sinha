@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh-sinha" alt="shreyansh-sinha" /></a> </p>
 
-- 🔭 I’m currently working on [full stack development in javascript and DSA(Data Structures & Algorithms)](https://fullstackopen.com/en/)
+- 🔭 I’m currently working on **full stack development in javascript and DSA(Data Structures & Algorithms)**
 
 - 🌱 I’m currently learning **Javascript, React, Node.js**
 
