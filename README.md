@@ -3,7 +3,7 @@
 I am Shreyansh Sinha, an enthusiastic and motivated Computer Science & Engineering graduate from National Institute of Technology Calicut, who loves solving challenging technical problems. 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin]
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
 - 🔭 I’m currently working on full stack development in javascript and DSA(Data Structures & Algorithms).
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on projects based on javascript(React, Node.js).
