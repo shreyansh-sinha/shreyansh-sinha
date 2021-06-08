@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Engineering in Javascript**
 
-- 💬 Ask me about **C, C++, Javascript, React, Node.js, DSA, chess.**
+- 💬 Ask me about **C, C++, Javascript, React, Node.js, DSA, chess, interview preparation**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
